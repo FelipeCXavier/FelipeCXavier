@@ -2,6 +2,7 @@
 
 - 🔭 Estudande de T.I 
 - 🌱 Estudando .NET Csharp
+- T-Systems
 - 😄 Pronouns: ele/dele
 
 <div>
